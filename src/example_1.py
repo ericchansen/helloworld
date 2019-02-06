@@ -28,5 +28,5 @@ You're free to do it as you please!
     main()
 
     # This is how you write comments in Python.
-    # import import_this
-    # print(import_this.a)
+    import example_1_import_this
+    print(example_1_import_this.a)
